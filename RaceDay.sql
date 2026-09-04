@@ -199,3 +199,15 @@ VALUES
     1000,
     'Open'
 );
+
+-- =========================================================
+-- 5. ENROLLMENTS
+-- Participant IDs:
+-- 3 = Sipho Dlamini
+-- 4 = Nomsa Khumalo
+--
+-- Event IDs:
+-- 1 = Johannesburg City 10K
+-- 2 = Magaliesberg Mountain Trail
+-- 3 = Run for Hope Charity 5K
+-- =========================================================
