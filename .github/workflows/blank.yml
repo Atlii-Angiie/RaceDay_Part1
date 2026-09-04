@@ -24,11 +24,11 @@ jobs:
         with:
           dotnet-version: '8.0.x'
 
-      - name: Restore dependencies
-        run: dotnet restore
+      -- name: Restore dependencies
+  run: dotnet restore RaceDay.sln
 
-      - name: Build application
-        run: dotnet build --no-restore --configuration Release
+- name: Build application
+  run: dotnet build RaceDay.sln --no-restore --configuration Release
 
-      - name: Run tests
-        run: dotnet test --no-build --configuration Release
+- name: Run tests
+  run: dotnet test RaceDay.sln --no-build --configuration Release
