@@ -103,4 +103,13 @@ VALUES
 ('Sipho', 'Dlamini', 'sipho.dlamini@example.com', 'Password123', 'Participant'),
 ('Nomsa', 'Khumalo', 'nomsa.khumalo@example.com', 'Password123', 'Participant');
 
+-- =========================================================
+-- 2. EVENT TYPES
+-- =========================================================
+
+INSERT INTO EventType (event_name, description)
+VALUES
+('Road Race', 'A running event held on public roads and paved routes.'),
+('Trail Run', 'A running event conducted on natural trails and off-road terrain.'),
+('Charity Run', 'A running event organised to raise funds and awareness for a charitable cause.');
 
