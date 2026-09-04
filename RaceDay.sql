@@ -219,3 +219,11 @@ INSERT INTO Enrollment
     race_number,
     status
 )
+VALUES
+(
+    1,
+    3,
+    '2026-09-01 09:15:00',
+    'JHB001',
+    'Registered'
+),
