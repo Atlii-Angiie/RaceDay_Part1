@@ -227,3 +227,10 @@ VALUES
     'JHB001',
     'Registered'
 ),
+(
+    1,
+    4,
+    '2026-09-02 14:30:00',
+    'JHB002',
+    'Registered'
+),
