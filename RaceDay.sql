@@ -122,3 +122,20 @@ VALUES
 ('10 KM Run', 'A 10-kilometre running event suitable for recreational and competitive runners.'),
 ('21 KM Trail Run', 'A half-marathon distance trail running event for experienced runners.'),
 ('5 KM Fun Run', 'A short recreational run suitable for families and participants of different fitness levels.');
+
+-- =========================================================
+-- 4. EVENTS
+-- Organizer IDs:
+-- 1 = Thabo Mokoena
+-- 2 = Lerato Nkosi
+--
+-- EventType IDs:
+-- 1 = Road Race
+-- 2 = Trail Run
+-- 3 = Charity Run
+--
+-- Category IDs:
+-- 1 = 10 KM Run
+-- 2 = 21 KM Trail Run
+-- 3 = 5 KM Fun Run
+-- =========================================================
