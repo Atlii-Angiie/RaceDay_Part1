@@ -211,3 +211,11 @@ VALUES
 -- 2 = Magaliesberg Mountain Trail
 -- 3 = Run for Hope Charity 5K
 -- =========================================================
+INSERT INTO Enrollment
+(
+    event_id,
+    user_id,
+    registration_date,
+    race_number,
+    status
+)
