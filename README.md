@@ -828,8 +828,10 @@ GitHub
 
 ---
 GITHUB LINK 
+https://github.com/Atlii-Angiie/RaceDay_Part1/tree/main
 
 YOUTUBE LINK
+https://www.youtube.com/shorts/rDyApo0YFZg
 # 🤖 Use of AI
 
 Artificial Intelligence (AI) tools were used during the development of this project for **proofreading and improving the clarity of written content**.
