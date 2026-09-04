@@ -113,3 +113,12 @@ VALUES
 ('Trail Run', 'A running event conducted on natural trails and off-road terrain.'),
 ('Charity Run', 'A running event organised to raise funds and awareness for a charitable cause.');
 
+-- =========================================================
+-- 3. CATEGORIES
+-- =========================================================
+
+INSERT INTO Category (name, description)
+VALUES
+('10 KM Run', 'A 10-kilometre running event suitable for recreational and competitive runners.'),
+('21 KM Trail Run', 'A half-marathon distance trail running event for experienced runners.'),
+('5 KM Fun Run', 'A short recreational run suitable for families and participants of different fitness levels.');
