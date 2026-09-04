@@ -265,3 +265,11 @@ INSERT INTO Results
     pace,
     status
 )
+VALUES
+(
+    1,
+    '00:52:35',
+    18,
+    5.26,
+    'Finished'
+),
