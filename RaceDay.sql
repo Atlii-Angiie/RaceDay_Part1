@@ -241,3 +241,10 @@ VALUES
     'MAG001',
     'Registered'
 ),
+(
+    3,
+    4,
+    '2026-09-03 16:45:00',
+    'HOP001',
+    'Registered'
+);
