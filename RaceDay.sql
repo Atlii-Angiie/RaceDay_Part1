@@ -154,4 +154,19 @@ VALUES
     registration_deadline,
     max_participants,
     status
-)- =========================================================
+)
+VALUES
+(
+    'Johannesburg City 10K',
+    'A fast-paced 10 kilometre road race through central Johannesburg.',
+    '2026-10-18',
+    '07:00:00',
+    'Zoo Lake, Johannesburg',
+    10.00,
+    1,
+    1,
+    1,
+    '2026-10-10',
+    500,
+    'Open'
+),
