@@ -185,3 +185,17 @@ VALUES
     'Open'
 ),
 
+(
+    'Run for Hope Charity 5K',
+    'A family-friendly 5 kilometre charity run supporting local community projects.',
+    '2026-12-05',
+    '08:00:00',
+    'Delta Park, Johannesburg',
+    5.00,
+    3,
+    3,
+    1,
+    '2026-11-28',
+    1000,
+    'Open'
+);
