@@ -248,3 +248,20 @@ VALUES
     'HOP001',
     'Registered'
 );
+-- =========================================================
+-- 6. SAMPLE RESULTS
+-- Results should normally only exist for completed events.
+-- These are included as sample data for testing.
+-- =========================================================
+
+-- If you want results to correspond to completed events,
+-- you can update an event's status to 'Completed' first.
+
+INSERT INTO Results
+(
+    enrollment_id,
+    finish_time,
+    position,
+    pace,
+    status
+)
