@@ -827,6 +827,20 @@ GitHub
 - [ ] Docker/containerisation
 
 ---
+# 🤖 Use of AI
+
+Artificial Intelligence (AI) tools were used during the development of this project for **proofreading and improving the clarity of written content**.
+
+AI was used to assist with:
+
+- Proofreading and correcting grammar and spelling.
+- Improving the clarity and readability of documentation.
+- Reviewing the wording of the README and project documentation.
+- Helping ensure that explanations and descriptions were clear and understandable.
+
+The database design, project requirements, API structure, implementation decisions and final project work were reviewed and adapted by the student to meet the requirements of the assignment.
+
+AI was used as a supporting proofreading and documentation tool and not as a replacement for the my own understanding and work.
 
 # 📜 License
 
