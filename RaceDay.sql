@@ -138,4 +138,20 @@ VALUES
 -- 1 = 10 KM Run
 -- 2 = 21 KM Trail Run
 -- 3 = 5 KM Fun Run
--- =========================================================
+-
+
+    INSERT INTO Event
+(
+    name,
+    description,
+    event_date,
+    start_time,
+    location,
+    distance,
+    event_type_id,
+    category_id,
+    organizer_id,
+    registration_deadline,
+    max_participants,
+    status
+)- =========================================================
