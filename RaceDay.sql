@@ -170,3 +170,18 @@ VALUES
     500,
     'Open'
 ),
+(
+    'Magaliesberg Mountain Trail',
+    'A challenging 21 kilometre trail run through the scenic Magaliesberg mountains.',
+    '2026-11-08',
+    '06:30:00',
+    'Magaliesberg Nature Area',
+    21.00,
+    2,
+    2,
+    2,
+    '2026-10-31',
+    250,
+    'Open'
+),
+
