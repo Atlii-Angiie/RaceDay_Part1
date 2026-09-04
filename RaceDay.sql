@@ -280,3 +280,29 @@ VALUES
     6.43,
     'Finished'
 ),
+(
+    3,
+    '02:18:45',
+    27,
+    6.61,
+    'Finished'
+),
+(
+    4,
+    '00:31:10',
+    12,
+    6.23,
+    'Finished'
+);
+
+
+-- =========================================================
+-- VERIFY THE SEEDED DATA
+-- =========================================================
+
+SELECT * FROM Users;
+SELECT * FROM EventType;
+SELECT * FROM Category;
+SELECT * FROM Event;
+SELECT * FROM Enrollment;
+SELECT * FROM Results;
